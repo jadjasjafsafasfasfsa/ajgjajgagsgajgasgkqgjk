@@ -27,8 +27,7 @@
 .links .link:hover { transition: 0.5s; -webkit-transform: scale(1.05); box-shadow: 0 0 25px #ff914d;}
 .links .link h2 {  padding-bottom: 30px }
 .links .link a {
-    padding: 10px 20px;
-   
+    padding: 10px 20px;  
     background-color: #ff914d;
     border-radius: 10px;
 }
