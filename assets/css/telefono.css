@@ -121,7 +121,7 @@
         display: none
     }
 
-    .links .link:hover { transition: no; -webkit-transform: scale(1.05); box-shadow: 0 0 0px #ff914d;}
+    .links .link:hover { transition: 0.5s; -webkit-transform: scale(1.05); box-shadow: 0 0 0px rgb(20, 20, 20);}
     .links .link h2 {  padding-bottom: 30px }
     .links .link a {
         padding: 10px 20px;  
