@@ -120,4 +120,12 @@
     .principio img {
         display: none
     }
+
+    .links .link:hover { transition: none; -webkit-transform: none; box-shadow: none;}
+    .links .link h2 {  padding-bottom: 30px }
+    .links .link a {
+        padding: 10px 20px;  
+        background-color: #ff914d;
+        border-radius: 10px;
+    }
   }
